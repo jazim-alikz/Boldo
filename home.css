@@ -1,0 +1,117 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap'); */
+
+
+body{
+    background-image :url(./img/navbackimg.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    font-family: "Manrope", sans-serif;
+}
+.navlogo{
+    padding:0px;
+    margin: 0px;
+}
+.navbar {
+    justify-content: space-between;
+    display: flex;
+    height: 42px;
+    padding-top: 56px;
+    padding-inline: 100px;
+}
+ .nav-list {
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    inline-size: none;
+    gap: 40px;
+    list-style-type: none;
+}
+  a{
+    color: #0A2640;
+    text-decoration: none;
+}
+  button {
+    border-color: #0a2640;
+    height: 40px;
+    width: 128px;
+    border-radius: 24px;
+    cursor: pointer;
+ }
+.container1{
+    display: flex;
+    margin-left:-30px;
+
+}
+ .paragraph p{
+    width: 600px;
+    font-size: 48px;
+    line-height: 72px;
+    margin-top: 123px;
+    margin-bottom: 0%;
+    padding-left: 128px;
+}
+ .paragraph span p{
+    margin-top: 16px;
+    font-size: 16px;
+    line-height: 28px;
+    width: 540px;
+    color:gray;
+    display: flex;
+}
+.img{
+    margin-top:56px;
+    margin-left:53.65px;
+}
+.img2{
+    margin-top: 25.77px;
+    margin-right: 38.65px;
+}
+.btns{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.buybtn{
+    width: 247px;
+    height: 60px;
+    border-radius: 56px;
+    border: none;
+    background-color: #0A2640;
+    margin-right: 24px;
+}
+.explorebtn{
+    width: 187px;
+    height: 60px;
+    border-radius: 56px;
+}
+.logoimgs{
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    margin-inline: 141px 140px;
+    margin-top: 95px;
+}
+.container2{
+    background-color: #0a2640;
+}
+.container2 .paragraph2{
+    margin-left: 647px;
+    padding-top:82px;
+    width: 116px;
+    height: 32px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #f1f1f1;
+}
+.paragraphs{
+    text-align: center;
+}
+.container2 span .heading{
+    width: 842px;
+    height: 144px;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+}
