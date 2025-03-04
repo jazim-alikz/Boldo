@@ -1,11 +1,11 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 
 body{
-    background-image :url(./img/navbackimg.png);
+    background-image :url(./images/navbackimg.png);
     background-repeat: no-repeat;
     background-position: right top;
-    font-family: "Manrope", sans-serif;
 }
 .navlogo{
     padding:0px;
@@ -44,6 +44,7 @@ body{
 
 }
  .paragraph p{
+    font-family: "Manrope", sans-serif;
     width: 600px;
     font-size: 48px;
     line-height: 72px;
@@ -52,6 +53,7 @@ body{
     padding-left: 128px;
 }
  .paragraph span p{
+    font-family: Open Sans;
     margin-top: 16px;
     font-size: 16px;
     line-height: 28px;
@@ -94,24 +96,47 @@ body{
 .container2{
     background-color: #0a2640;
 }
-.container2 .paragraph2{
-    margin-left: 647px;
+.container2 p{
+    color: white;
+    text-align: center;
     padding-top:82px;
-    width: 116px;
-    height: 32px;
+    font-family: Open Sans;
     font-weight: 400;
     font-size: 20px;
     line-height: 32px;
-    color: #f1f1f1;
+    margin-bottom:12px ;
+    padding-bottom: 0%;
 }
-.paragraphs{
-    text-align: center;
-}
-.container2 span .heading{
+.container2 span p{
+    margin-top: 0%;
+    padding-top: 0;
+    font-family: "Manrope", sans-serif;
     width: 842px;
     height: 144px;
     font-weight: 400;
     font-size: 48px;
     line-height: 72px;
-    text-align: center;
+    margin-inline: 284px 279px;
+}
+.cardsecation{
+    display: flex;
+    gap: 99px;
+    margin-left: 156px;
+    margin-top: 72px;
+
+}
+hr{
+    margin-right: 100%;
+    width: 110px;
+    height: 1;
+
+}
+.cardtext p{
+    padding-top:0px;
+    text-align: left;
+    color: white;
+}
+.cardtext a{
+    color: white;
+    padding-top: 20px;
 }
