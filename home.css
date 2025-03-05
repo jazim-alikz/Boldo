@@ -128,8 +128,6 @@ body{
 hr{
     margin-right: 100%;
     width: 110px;
-    height: 1;
-
 }
 .cardtext p{
     padding-top:0px;
@@ -139,4 +137,144 @@ hr{
 .cardtext a{
     color: white;
     padding-top: 20px;
+}
+.container3{
+    display: flex;
+}
+.pic{
+    margin-top: 120px;
+    margin-left: 156px;
+}
+.container3 .heading{
+    margin-left: 150px;
+    margin-top:186px;
+}
+.container3 .heading span p{
+    font-family: "Manrope", sans-serif;
+    width: 493px;
+    height: 164px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 56px;
+    color: black;
+}
+.container3 p{
+    font-family: Open Sans;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 0%;
+
+}
+.heading li{
+    list-style-type: none;
+    display: flex;
+}
+.heading li img{
+    margin-right: 20px;
+    width:36px;
+    height: 36px;
+}
+.heading li p{
+    font-family: Open Sans;
+    line-height: 32px;
+}
+.container3 button{
+    margin-top: 56px;
+    background-color: #0A2640;
+    color: white;
+    width: 210px;
+    height: 60px;
+    border-radius: 56px;
+    border-width: 2px;
+}
+.heading2 p{
+    font-family: "Manrope", sans-serif;
+    width: 493px;
+    height: 164px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 56px;
+    margin-left: 150px;
+    margin-top: 226px;
+}
+.feather{
+    width: 500px;
+    height: 68px;
+    margin-left: 150px;
+    border-radius: 4px;
+    background-color: #0A2640;
+}
+.feather li{
+    list-style-type: none;
+    display: flex;
+    padding-top: 16px;
+    color: white;
+}
+.feather li img{
+    margin-left: 20px;
+    margin-right: 12px;
+    width:28px;
+    height: 28px;
+    color: white;
+    margin-top: 5px;
+}
+.feather li p{
+    font-family: Open Sans;
+    line-height: 32px;
+    margin-top: 4px;
+}
+.star{
+    width: 500px;
+    height: 68px;
+    margin-left: 150px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 1px 1px #00000014;
+    margin-top: 24px;
+}
+.star li{
+    list-style-type: none;
+    display: flex;
+    padding-top: 16px;
+}
+.star li img{
+    margin-left: 20px;
+    margin-right: 12px;
+    width:28px;
+    height: 28px;
+    margin-top: 5px;
+}
+.star li p{
+    font-family: Open Sans;
+    line-height: 32px;
+    margin-top: 4px;
+}
+.sun{
+    width: 500px;
+    height: 68px;
+    margin-left: 150px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+}
+.sun li{
+    list-style-type: none;
+    display: flex;
+    padding-top: 16px;
+}
+.sun li img{
+    margin-left: 20px;
+    margin-right: 12px;
+    width:28px;
+    height: 28px;
+    margin-top: 5px;
+}
+.sun li p{
+    font-family: Open Sans;
+    line-height: 32px;
+    margin-top: 4px;
+}
+.pic2{
+    float: right;
+    margin-top: -550px;
 }
