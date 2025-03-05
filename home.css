@@ -53,7 +53,7 @@ body{
     padding-left: 128px;
 }
  .paragraph span p{
-    font-family: Open Sans;
+    font-family: "Open Sans", sans-serif;
     margin-top: 16px;
     font-size: 16px;
     line-height: 28px;
@@ -80,11 +80,14 @@ body{
     border: none;
     background-color: #0A2640;
     margin-right: 24px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
 }
 .explorebtn{
     width: 187px;
     height: 60px;
     border-radius: 56px;
+    font-family: "Open Sans", sans-serif;
 }
 .logoimgs{
     list-style-type: none;
@@ -100,7 +103,7 @@ body{
     color: white;
     text-align: center;
     padding-top:82px;
-    font-family: Open Sans;
+    font-family: "Open Sans", sans-serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 32px;
@@ -159,7 +162,7 @@ hr{
     color: black;
 }
 .container3 p{
-    font-family: Open Sans;
+    font-family: "Open Sans", sans-serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 32px;
@@ -176,7 +179,7 @@ hr{
     height: 36px;
 }
 .heading li p{
-    font-family: Open Sans;
+    font-family: "Open Sans", sans-serif;
     line-height: 32px;
 }
 .container3 button{
@@ -220,7 +223,7 @@ hr{
     margin-top: 5px;
 }
 .feather li p{
-    font-family: Open Sans;
+    font-family: "Open Sans", sans-serif;
     line-height: 32px;
     margin-top: 4px;
 }
@@ -246,7 +249,7 @@ hr{
     margin-top: 5px;
 }
 .star li p{
-    font-family: Open Sans;
+    font-family: "Open Sans", sans-serif;
     line-height: 32px;
     margin-top: 4px;
 }
@@ -270,7 +273,7 @@ hr{
     margin-top: 5px;
 }
 .sun li p{
-    font-family: Open Sans;
+    font-family: "Open Sans", sans-serif;
     line-height: 32px;
     margin-top: 4px;
 }
