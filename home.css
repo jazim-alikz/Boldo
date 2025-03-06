@@ -279,5 +279,134 @@ hr{
 }
 .pic2{
     float: right;
-    margin-top: -550px;
+    margin-top: -600px;
+}
+.content{
+    background-color: #0A2640;
+}
+.heading3{
+    margin-top: 179px;
+    padding-top: 100px;
+    padding-left: 150px;
+    display: flex;
+}
+.heading3 p{
+    width: 716px;
+    height: 139px;
+    margin-right: 200px;
+    font-family: "Manrope", sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    color: white;
+}
+.arrow-pic{
+    margin-right: 28px;
+    margin-top: 160px;
+}
+.arrow-pic .pic0{
+    margin-right: 100px;
+}
+.cards{
+    margin-top: 96px;
+    display: flex;
+}
+.content .card1{
+    width: 240px;
+    height: 270px;
+    margin-left: 150px;
+    border-radius: 12px;
+    padding: 40px;
+    margin-right: 40px;
+    background-color: white;
+}
+.content .card1 p{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    width: 270px;
+    height: 144px;
+
+}
+.pic-para{
+    display: flex;
+    margin-top: 40px;
+}
+.content .cards img{
+    width: 58px;
+    height: 58px;
+    margin-top: 18px;
+}
+.pic-para p{
+    margin-left: 20px;
+    width: 196px;
+    height: 22px;
+    font-family: "Open Sans", sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+}
+.manager p{
+    color: gray;
+    margin-top: -140px;
+    margin-left: 78px;
+    font-family: "Open Sans", sans-serif!important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+}
+.content .card2{
+    width: 270px;
+    height: 334px;
+    border-radius: 12px;
+    padding: 40px;
+    gap: 40px;
+    background-color: white;
+}
+.content .card2 p{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    width: 270px;
+    height: 144px;
+}
+.pic-para2{
+    display: flex;
+    margin-top: 90px;
+}
+.pic-para2 p{
+    margin-left: 20px;
+    width: 196px;
+    height: 22px;
+    font-family: "Open Sans", sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+}
+.content .card3{
+    width: 270px;
+    height: 294px;
+    border-radius: 12px;
+    padding: 40px;
+    margin-left: 40px;
+    background-color: white;
+}
+.content .card3 p{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    width: 270px;
+    height: 144px;
+}
+.pic-para3{
+    display: flex;
+    margin-top: 60px;
+}
+.pic-para3 p{
+    margin-left: 20px;
+    width: 196px;
+    height: 22px;
+    font-family: "Open Sans", sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
 }
