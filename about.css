@@ -108,3 +108,69 @@ button:hover{
     line-height: 32px;
     padding-bottom: 96px;    
 }
+.content3{
+    background-color: #0A2640;
+}
+.container{
+    width: 842;
+    height: 184;
+}
+.content3 .paragraph{
+    font-family:"Open Sans", sans-serif ;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: white;
+    text-align: center;
+    padding-block: 94px 12px;
+}
+.content3 .heading{
+    margin-top: 0;
+    width: 842px;
+    height: 144px;
+    font-family:"Manrope", sans-serif ;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+    color: white;
+    margin-left: 279px;
+    margin-bottom: 84px;
+}
+.container2{
+    display: flex;
+    width: 1000px;
+    padding-bottom: 96px;
+    margin-left: 201px;
+    justify-content: space-between;
+}
+.container2 .numbers{
+    font-family:"Manrope", sans-serif ;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 56px;
+    color: #4FE9A4;
+}
+.container2 .paragraph2{
+    margin-top: -50px;
+    font-family: "Open Sans", sans-serif ;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: white;
+}
+.container2 .numbers2{
+    font-family:"Manrope", sans-serif ;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 56px;
+    color: #4FE9A4;
+}
+.container2 .paragraph3{
+    margin-top: -50px;
+    font-family: "Open Sans", sans-serif ;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: white;
+}
