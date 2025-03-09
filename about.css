@@ -65,3 +65,46 @@ button:hover{
     color: white;
     margin-left:319px;
 }
+.images{
+    display: flex;
+    margin-top: -100px;
+}
+.images1{
+    margin-left: 150px;
+}
+.images2{
+    margin-inline: 50px;
+}
+.img1{
+    margin-top: 40px;
+}
+.content2{
+    margin-left: 300px;
+    margin-top: 122px;
+}
+.content2 p{
+    color: grey;
+    font-family:"Open Sans", sans-serif ;
+    margin-bottom: 0;
+}
+.content2 .heading{
+    margin-top: 12px;
+    color: black;
+    width: 842px;
+    height: 144px;
+    font-family: "Manrope", sans-serif;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    
+}
+.content2 .paragraph{
+    margin-top: 32px;
+    font-family:"Open Sans", sans-serif ;
+    color: grey;
+    width: 799px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    padding-bottom: 96px;    
+}
