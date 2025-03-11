@@ -212,12 +212,10 @@ li {
   padding-bottom: 50px;
 }
 .footerlist {
-  /* float: right; */
   padding-top: 84px;
   margin-left: 60px;
 }
 .footerlist li p {
-  /* font-family: Open Sans; */
   font-size: 20px;
   font-weight: 700;
   line-height: 32px;
