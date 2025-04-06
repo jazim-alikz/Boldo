@@ -1,8 +1,9 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap'); */
-
-*{
-  /* font-family: "Roboto", sans-serif; */
-
+@font-face {
+  font-family: 'MyFont';
+  src: url('fonts/MyFont.ttf') format('truetype');
+}
+body {
+  font-family: 'MyFont', sans-serif;
 }
 .navbar {
   justify-content: space-between;
